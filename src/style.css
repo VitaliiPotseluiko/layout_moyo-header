@@ -21,10 +21,6 @@
   margin-right: 20px;
 }
 
-.nav {
-  margin: 0;
-}
-
 .container {
   display: flex;
   justify-content: space-between;
